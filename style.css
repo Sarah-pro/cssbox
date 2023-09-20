@@ -1,0 +1,33 @@
+
+*{
+    margin:0; /*margem;0*/
+    padding;0;/*preenchimento:0*/
+    box-sizing:border-box; /*caixa de borda*/
+}
+
+.absolutas{
+    border: black 10px;
+    height: 400px;
+    width:600px;
+    padding: 30px;
+
+}
+.tituloPixel{
+    font-size: 20px;
+}
+
+.relativas {
+    border: blue 10px;
+}
+
+.containerEm{
+    color:blueviolet;
+}
+
+.paragrafoComEM {
+    font-size: 3em;
+    color: rgb(200, 18, 48);
+}
+
+
+
